@@ -1,0 +1,3 @@
+include README.md LICENSE.txt CHANGES.txt
+recursive-include dataprepy/test/datos *.csv
+recursive-include notebook *.ipynb *.csv

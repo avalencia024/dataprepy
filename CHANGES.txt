@@ -1,0 +1,5 @@
+Versión 1.0.0
+2026-10-26
+- Primera versión del módulo.
+- Versión en Python del paquete de R dataprepR, con las mismas funciones y el
+  mismo formato propio de ficheros (.dts).
